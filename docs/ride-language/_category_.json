@@ -1,0 +1,8 @@
+{
+  "label": "Ride Language",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description" : "Ride is a straightforward, developer-friendly functional programming language for smart contracts and decentralized applications (dApps) on the DecentralChain blockchain. Ride is a strong statically-typed, lazy, functional, expression-based compiled programming language. It is designed for building developer-friendly decentralized applications (dApps)."
+  }
+}
